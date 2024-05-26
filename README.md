@@ -8,10 +8,6 @@ Welcome to the Movies Basic Website project! This is a simple, static website bu
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
