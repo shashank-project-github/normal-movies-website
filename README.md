@@ -3,7 +3,7 @@
 Welcome to the Movies Basic Website project! This is a simple, static website built using only HTML and CSS. The website provides a basic layout for displaying information about movies.
 
 # Visit website
-[Movies](https://exquisite-dango-2651e5.netlify.app/)
+[Movies](https://66536337eb7d0596545fb9d7--dynamic-caramel-fd5210.netlify.app/)
 
 ![Alt text](img/sc.png)
 ## Table of Contents
