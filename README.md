@@ -2,6 +2,7 @@
 
 Welcome to the Movies Basic Website project! This is a simple, static website built using only HTML and CSS. The website provides a basic layout for displaying information about movies.
 
+![Alt text](images/sc.jpg)
 ## Table of Contents
 
 - [Introduction](#introduction)
