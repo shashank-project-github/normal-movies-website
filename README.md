@@ -26,7 +26,7 @@ This project is a basic website that displays information about movies. It inclu
 
 ## Demo
 
-You can view a live demo of the website [here](#). (Replace the `#` with the link to your live demo if available)
+You can view a live demo of the website [here](https://66536337eb7d0596545fb9d7--dynamic-caramel-fd5210.netlify.app/). (Replace the `#` with the link to your live demo if available)
 
 ## Installation
 
